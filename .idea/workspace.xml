@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4b59722-0e2f-41c9-a0ff-ec679cc7d9b9" name="Default Changelist" comment="" />
+    <list default="true" id="c4b59722-0e2f-41c9-a0ff-ec679cc7d9b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-api/target/" />
@@ -51,6 +53,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,14 +87,25 @@
     <option name="width" value="1134" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,11 +149,20 @@
       <workItem from="1554035479986" duration="3373000" />
       <workItem from="1554039676691" duration="4767000" />
       <workItem from="1554131646350" duration="1695000" />
+      <workItem from="1554136125554" duration="268000" />
     </task>
+    <task id="LOCAL-00001" summary="分布式微服务">
+      <created>1554136372510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554136372511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17765000" />
+    <option name="totallyTimeSpent" value="18033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +176,7 @@
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="1134" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.36685288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.37430167" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.4245661" />
       <window_info id="Web" order="2" sideWeight="0.5008157" side_tool="true" weight="0.4245661" />
       <window_info id="Designer" order="3" />
@@ -185,6 +208,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分布式微服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="分布式微服务" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
